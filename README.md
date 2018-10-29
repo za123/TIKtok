@@ -5,3 +5,5 @@
 js文件来自项目https://github.com/loadchange/amemv-crawler
 
 很奇怪，aweme_id有时候超出引用范围，可能是同名变量引起的，自行更改就好了
+18-10-29
+重写本项目，当前项目为iOS版与电脑网页端共用
