@@ -8,4 +8,4 @@ js文件来自项目https://github.com/loadchange/amemv-crawler
 重写本项目，当前项目为iOS版与电脑网页端共用
 
 重写完成，可执行文件微云下载，无后门 就一个QQ群验证而已
-https://share.weiyun.com/53u45Dp
+https://share.weiyun.com/5lweCRh
